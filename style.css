@@ -1,0 +1,9 @@
+    body{
+      color:blue!important;
+    }
+    .omri-class{
+      color: yellow!important;
+    }
+    #omri-id{
+      color:green!important;
+    }
